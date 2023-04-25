@@ -1,0 +1,10 @@
+  501  3759 88661 ca_500.csv
+  501  3361 92320 us_500.csv
+first line of the file ca_500.csv
+first line of the file us_500.csv
+"first_name","last_name","company_name","address","city","province","postal","phone1","phone2","email","web"
+"first_name","last_name","company_name","address","city","county","state","zip","phone1","phone2","email","web"
+Data of the city Montreal:
+"first_name","last_name","company_name","address","city","province","postal","phone1","phone2","email","web"
+"Mammie","Cisney","Arellano, Cecilia S Md","14 E 30th St","Montreal","QC","H1E 1R4","514-205-4258","514-841-9635","mammie@cox.net","http://www.arellanoceciliasmd.com"
+
